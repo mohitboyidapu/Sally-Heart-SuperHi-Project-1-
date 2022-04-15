@@ -1,0 +1,42 @@
+body{
+  margin: 0px;
+  background-color: #004d9d;
+  color: #ffffff;
+  font-family: 'BIZ UDPMincho', serif;
+}
+a {
+  text-decoration: none;
+  color: #ffffff;
+}
+a:hover{
+  color: #dddddd;
+}
+header{
+  position: fixed;
+  top: 20px;
+  left: 20px;
+}
+section{
+  height: 100vh;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.sy-1{
+  background-image: url(images/sally_1.jpg);
+}
+.sy-2{
+  background-image: url(images/sally_2.jpg);
+}
+.sy-3{
+  background-image: url(images/sally_3.jpg);
+}
+.sy-4{
+  background-image: url(images/sally_4.jpg);
+}
+footer{
+  padding: 10px;
+  background-color: rgba(22, 21, 90, 0.116);
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+}
